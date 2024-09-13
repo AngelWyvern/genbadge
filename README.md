@@ -2,7 +2,7 @@
 
 `genbadge` is a simple HTTP-based SVG badge generator written in TypeScript. This is just a small side-project of mine that I made mostly for fun and therefore won't be getting much support.
 
-## Building and runing genbadge 
+## Building and running genbadge 
 
 To install dependencies:
 
